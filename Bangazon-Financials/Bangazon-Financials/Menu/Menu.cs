@@ -93,7 +93,7 @@ namespace Bangazon_Financials.Menu
             Console.WriteLine("#################################");
             Console.WriteLine("");
             Console.WriteLine("BANGAZON FINANCIAL REPORTS PORTAL");
-            Console.WriteLine("");
+            Console.WriteLine(""); 
             Console.WriteLine("#################################");
 
             // Display each menu item
