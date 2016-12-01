@@ -5,8 +5,8 @@ using Bangazon_Financials.Entities;
 namespace Bangazon_Financial.Actions
 {
     //Class Name: QuarterlyReport
-    //Author: Grant Regnier
-    //Purpose of the class: This Class selects sales by product from the past month and displays them.
+    //Author: Fletcher Watson
+    //Purpose: This Class selects sales by product from the past month and displays them.
     public class QuarterlyReport
     {
         //Method Name: ReadInput

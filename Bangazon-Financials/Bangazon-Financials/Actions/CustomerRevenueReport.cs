@@ -5,7 +5,7 @@ using Bangazon_Financials.Entities;
 namespace Bangazon_Financial.Actions
 {
     //Class Name: CustomerRevenueReport
-    //Author: Grant Regnier
+    //Author: Fletcher Watson
     //Purpose of the class: This Class selects a list of reports from the DB displaying total revenue from each customer.
     public class CustomerRevenueReport
     {
